@@ -1,0 +1,41 @@
+/* This file is for your main application css. */
+@import "bootstrap";
+
+#login{
+  text-align: center;
+}
+#landing{
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#register{
+  float: right;
+  font-size: 23px
+}
+#status{
+  color: green;
+}
+#notice{
+  color: orange;
+}
+.header{
+  font-size: 21px;
+}
+#start-button{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.block-row button{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.btn-lg{
+  margin:10px;
+}
+#warnning{
+  color: red
+}
+#add-time-warnning{
+  color: red
+}
